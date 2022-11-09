@@ -4,6 +4,7 @@ go 1.19
 
 require (
 	github.com/emicklei/go-restful/v3 v3.9.0
+	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/sirupsen/logrus v1.9.0
 	go.mongodb.org/mongo-driver v1.11.0
 )
